@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ahmed El-Khayyat
 #### Senior Software Engineer
-![Senior Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Senior Software Engineer](https://elkhayyat.me/wp-content/uploads/2022/02/cropped-elkhayyat-dark-1.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
@@ -26,8 +26,3 @@ Skills: Python / Django / Dart / Flutter / reactJS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=elkhayyat)  
 
 ![Profile views](https://gpvc.arturio.dev/elkhayyat)  
-
-<!---
-elkhayyat/elkhayyat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
