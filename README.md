@@ -3,6 +3,10 @@
 ![Senior Software Engineer](https://elkhayyat.me/wp-content/uploads/2022/12/elkhayyat_logo.png)
 
 
+- 🔭 I’m currently working on @METROSPEEDY 
+- 🌱 I’m currently learning Machine Learning 
+- 📫 How to reach me: info@elkhayyat.me 
+
 ###
 
 <div align="left">
@@ -13,10 +17,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
-
-- 🔭 I’m currently working on @METROSPEEDY 
-- 🌱 I’m currently learning Machine Learning 
-- 📫 How to reach me: info@elkhayyat.me 
 
 ###
 
