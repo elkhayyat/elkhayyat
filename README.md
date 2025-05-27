@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ahmed El-Khayyat
-I am a passionate and results-oriented Senior Software Engineer. **Please update the bracketed placeholders in this paragraph with your specific details!** With [Number] years of experience in [mention key areas like "developing scalable web applications", "leading software projects", etc.], I thrive on solving complex problems and am always eager to learn new technologies. My goal is to [mention a career goal, e.g., "contribute to innovative projects that make a positive impact", "further develop my expertise in AI/ML", etc.].
+I am a passionate and results-oriented Senior Software Engineer. With +11 years of experience in leading software engineering teams, I thrive on solving complex problems and am always eager to learn new technologies. My goal is to contribute to innovative projects that make a positive impact and further develop my expertise in AI/ML
 
 ### Currently Working On
 - 🔭 I’m currently working on @METROSPEEDY 
