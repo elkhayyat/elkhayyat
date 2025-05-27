@@ -1,13 +1,25 @@
 ### Hi there 👋, my name is Ahmed El-Khayyat
-I am a passionate and results-oriented Senior Software Engineer. **Please update the bracketed placeholders in this paragraph with your specific details!** With [Number] years of experience in [mention key areas like "developing scalable web applications", "leading software projects", etc.], I thrive on solving complex problems and am always eager to learn new technologies. My goal is to [mention a career goal, e.g., "contribute to innovative projects that make a positive impact", "further develop my expertise in AI/ML", etc.].
+#### Senior Software Engineer
+![Senior Software Engineer](https://elkhayyat.me/wp-content/uploads/2022/12/elkhayyat_logo.png)
 
-### Currently Working On
+
 - 🔭 I’m currently working on @METROSPEEDY 
-
-### Currently Learning
 - 🌱 I’m currently learning Machine Learning 
+- 📫 How to reach me: info@elkhayyat.me 
 
-### Skills
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/elkhayyat" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/AHMEDELKHAYYAT" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -26,7 +38,6 @@ I am a passionate and results-oriented Senior Software Engineer. **Please update
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-### My GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elkhayyat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elkhayyat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -35,13 +46,6 @@ I am a passionate and results-oriented Senior Software Engineer. **Please update
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elkhayyat&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-### Contact Me
-- 📫 How to reach me: info@elkhayyat.me 
-<div align="left">
-  <a href="https://linkedin.com/in/elkhayyat" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/AHMEDELKHAYYAT" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-</div>
+
+
+###
